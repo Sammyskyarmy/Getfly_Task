@@ -17,7 +17,7 @@ To get the project up and running locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/SUMITGAIKWAD90/Getfly_Task.git
     cd frontend-intern-task
     ```
 
