@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PRJ-001",
+    "projectName": "City Bridge Expansion",
+    "status": "Active",
+    "startDate": "2024-02-01",
+    "location": "North Sector, Zone A",
+    "imageUrl": "/src/assets/City Bridge Expansion.png"
+  },
+  {
+    "id": "PRJ-002",
+    "projectName": "Residential Block 4",
+    "status": "Pending",
+    "startDate": "2024-04-20",
+    "location": "South-East District",
+    "imageUrl": "/src/assets/Residential Block 4.png"
+  },
+  {
+    "id": "PRJ-003",
+    "projectName": "Highway Maintenance Phase I",
+    "status": "Completed",
+    "startDate": "2023-09-15",
+    "location": "West Corridor",
+    "imageUrl": "/src/assets/Highway Maintenance Phase I.png"
+  },
+  {
+    "id": "PRJ-004",
+    "projectName": "Downtown Office Complex",
+    "status": "Active",
+    "startDate": "2024-01-15",
+    "location": "Central Business District",
+    "imageUrl": "/src/assets/Downtown Office Complex.png"
+  },
+  {
+    "id": "PRJ-005",
+    "projectName": "Metro Station Renovation",
+    "status": "Pending",
+    "startDate": "2024-05-10",
+    "location": "Transit Hub East",
+    "imageUrl": "/src/assets/Metro Station Renovation.png"
+  }
+]
