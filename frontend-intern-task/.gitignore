@@ -23,3 +23,7 @@ node_modules
 
 .agent
 commit.bat
+
+# Build output
+dist
+.vercel

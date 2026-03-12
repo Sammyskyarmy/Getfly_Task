@@ -42,7 +42,7 @@ export const Login = () => {
       <div className="hidden lg:flex lg:w-1/2 bg-[#0e4856] relative overflow-hidden items-center text-white p-16">
         <div 
           className="absolute inset-0 opacity-20 bg-cover bg-center mix-blend-overlay"
-          style={{ backgroundImage: "url('/src/assets/hero.png')" }}
+          style={{ backgroundImage: "url('/images/hero.png')" }}
         />
         <div className="relative z-10 max-w-lg pb-10">
           <HardHat className="h-12 w-12 mb-6 text-white stroke-[1.5]" />
